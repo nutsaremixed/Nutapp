@@ -63,3 +63,24 @@ body {
   #allLinks {
       margin: 20vh 0 0 -10vw;
   }
+
+  #buttLinks {
+    margin: 10vh 0 0 -30vw;
+}
+
+#sexLinks {
+    margin: 10vh 0 0 7vw;
+}
+
+#funnyTweeter {
+    margin: 0 0 0 -10vw;
+}
+
+#links a {
+    text-decoration: none;
+    display: block;
+    padding: 5px 8px;
+    background-color: aliceblue;
+    border-radius: 3px;
+    color: 
+}
